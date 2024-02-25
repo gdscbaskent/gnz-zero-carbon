@@ -36,9 +36,9 @@ For the database connection, change the username part as your username and passw
 
 ## Team Members
 
-Zeynep Gamze Topay - Backend Developer
-Zeynep Nazire Demir - Backend Developer
-Gökçe Nur Yılmaz - Frontend Developer
+Zeynep Gamze Topay - Backend Developer     
+Zeynep Nazire Demir - Backend Developer    
+Gökçe Nur Yılmaz - Frontend Developer      
 
 ## Video Submission
 
@@ -46,8 +46,6 @@ https://youtu.be/s0pWy3pbP8I
 
 [](https://youtu.be/s0pWy3pbP8I
 )
-
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
 
 ## Further help
 
