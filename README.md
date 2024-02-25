@@ -41,7 +41,7 @@ Our project utilizes the Spring Boot framework for backend development, providin
 Upload the "carbonfootprint/carbonfootprint" file to your Java IDE. Then run the code. 
 
 # Database
-In terms of database management, we employ PostgreSQL and SQL databases to store and manage our application's data. PostgreSQL, a powerful open-source relational database, offers features such as ACID compliance, JSON support, and robust scalability, making it an ideal choice for handling complex data requirements. Additionally, SQL (Structured Query Language) is used to interact with the databases, allowing us to perform various operations such as querying, updating, and managing data efficiently."
+In terms of database management, we employ PostgreSQL database to store and manage our application's data. PostgreSQL, a powerful open-source relational database, offers features such as ACID compliance, JSON support, and robust scalability, making it an ideal choice for handling complex data requirements. Additionally, SQL (Structured Query Language) is used to interact with the databases, allowing us to perform various operations such as querying, updating, and managing data efficiently."
     
 For the database connection, change the username part as your username and password part as your password in the src -> main -> resources -> application.properties file for connecting your own database.
 
