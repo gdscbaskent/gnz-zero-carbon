@@ -22,7 +22,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Primeng and Primefaces
 
-Our project utilizes PrimeNG and PrimeFlex libraries for developing the user interface components and layouts in our Angular-based web application. PrimeNG provides a wide range of UI components such as tables, forms, menus, and charts, while PrimeFlex offers flexible CSS utility classes for creating responsive and aesthetically pleasing layouts. By leveraging these libraries, we were able to accelerate development and ensure a visually appealing and user-friendly interface for our application.
+We used PrimeNG and PrimeFlex libraries to develop user interface components and layouts in our Angular-based web application. PrimeNG provides a wide range of user interface components such as tables, forms, menus, and charts, while PrimeFlex offers flexible CSS utility classes to create responsive and aesthetically pleasing layouts. By leveraging these libraries, we were able to speed up development and provide a visually appealing and user-friendly interface for our application.
 
 <br>
 
