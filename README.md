@@ -1,7 +1,8 @@
 # GNZ ZeroCarbon App 
 ![video- kapak ](https://github.com/gdscbaskent/gnz-zero-carbon/assets/116390010/4e5e3157-9848-42d3-ab83-34fbd52b16c9)
 
-
+#Frontend
+##ANGULAR
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.1.2.
 
 ## Development server
@@ -24,7 +25,11 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 
 Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
-src -> app -> app.service.ts ->
+## Further help
+
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+src -> app -> app.service.ts -> Replace the "10.7.28.212" IP in the sendActivity and getCompensations functions with your own IP.
 
 ## Backend
 
@@ -46,7 +51,3 @@ https://youtu.be/s0pWy3pbP8I
 
 [](https://youtu.be/s0pWy3pbP8I
 )
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
