@@ -52,4 +52,5 @@ Gökçe Nur Yılmaz - Frontend Developer
 https://youtu.be/s0pWy3pbP8I
 
 [](https://youtu.be/s0pWy3pbP8I
-)
+)      
+[![GNZ ZeroCarbon - GDSC Solution Challenge 2024](https://img.youtube.com/vi/s0pWy3pbP8I/0.jpg)](https://www.youtube.com/watch?v=s0pWy3pbP8I "GNZ ZeroCarbon ")
