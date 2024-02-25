@@ -34,7 +34,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 src -> app -> app.service.ts -> Replace the "10.7.28.212" IP in the sendActivity and getCompensations functions with your own IP.
 
-<img width="643" alt="Ekran Resmi 2024-02-25 21 12 47" src="https://github.com/gdscbaskent/gnz-zero-carbon/assets/128600199/c5b29c42-2b7b-4ba9-a86a-62cc1cc523f6">
+<img width="800" alt="Ekran Resmi 2024-02-25 21 12 47" src="https://github.com/gdscbaskent/gnz-zero-carbon/assets/128600199/c5b29c42-2b7b-4ba9-a86a-62cc1cc523f6">
 
 # Backend
 
