@@ -1,5 +1,6 @@
 # GNZ ZeroCarbon App 
 
+
 ![video- kapak ](https://github.com/gdscbaskent/gnz-zero-carbon/assets/116390010/4e5e3157-9848-42d3-ab83-34fbd52b16c9)
 
 The main purpose of this web application is to understand how much carbon dioxide emissions people cause with their daily "normal" activities through an individual tracking system and to raise awareness. By using the application daily, the user learns how much compensation activity he needs to do per unit for each activity that causes carbon dioxide emissions and perceives the amount of carbon dioxide emissions more clearly. Thus, the user's self-awareness and perception now reduce the activities that cause this carbon dioxide release, and the user tries to eliminate their negative effects by performing compensatory activities.
