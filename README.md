@@ -2,6 +2,8 @@
 
 ![video- kapak ](https://github.com/gdscbaskent/gnz-zero-carbon/assets/116390010/4e5e3157-9848-42d3-ab83-34fbd52b16c9)
 
+The main purpose of this web application is to understand in an individual tracking system how much carbon dioxide emissions people cause with their daily "normal" activities and to raise awareness. By using the application, the user learns how much for each activity will compensate per unit and perceives the amount of carbon dioxide emissions better and more clearly. Thus, user's self-awareness and perception now reduce these activities and user tries to eliminate their negative effects with compensatory activities.
+
 # Frontend
 ## ANGULAR
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.1.2.
