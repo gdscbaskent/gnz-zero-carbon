@@ -38,7 +38,7 @@ src -> app -> app.service.ts -> Replace the "10.7.28.212" IP in the sendActivity
 
 # Backend
 
-Upload the "carbonfootprint/carbonfootprint" file to your Java IDE. Then just run the code. 
+Upload the "carbonfootprint/carbonfootprint" file to your Java IDE. Then run the code. 
 
 # Database
 
@@ -51,5 +51,6 @@ Zeynep Nazire Demir - Backend Developer
 Gökçe Nur Yılmaz - Frontend Developer      
 
 # Video Submission
-For watching our presentation & demo video:     
-[![GNZ ZeroCarbon - GDSC Solution Challenge 2024](https://img.youtube.com/vi/s0pWy3pbP8I/0.jpg)](https://www.youtube.com/watch?v=s0pWy3pbP8I "GNZ ZeroCarbon ")
+Click on the thumbnail below for watching our presentation & demo video! 
+       
+[![GNZ ZeroCarbon - GDSC Solution Challenge 2024](https://img.youtube.com/vi/s0pWy3pbP8I/0.jpg)](https://www.youtube.com/watch?v=s0pWy3pbP8I "GNZ ZeroCarbon - GDSC Solution Challenge 2024")
