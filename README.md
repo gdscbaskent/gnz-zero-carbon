@@ -1,4 +1,4 @@
-# GNZ ZeroCarbon App 
+# GNZ ZeroCarbon - Web App 
 <br>
 
 ![video- kapak ](https://github.com/gdscbaskent/gnz-zero-carbon/assets/116390010/4e5e3157-9848-42d3-ab83-34fbd52b16c9)
