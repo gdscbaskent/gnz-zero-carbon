@@ -30,11 +30,11 @@ src -> app -> app.service.ts -> Replace the "10.7.28.212" IP in the sendActivity
 <img width="800" alt="Ekran Resmi 2024-02-25 23 45 26" src="https://github.com/gdscbaskent/gnz-zero-carbon/assets/128600199/6714f4f6-4c04-468e-add0-6d93f8db727e">
 
 # Backend
-
+Spring boot framework was used.
 Upload the "carbonfootprint/carbonfootprint" file to your Java IDE. Then run the code. 
 
 # Database
-
+Postgre SQL was used.
 For the database connection, change the username part as your username and password part as your password in the src -> main -> resources -> application.properties file for connecting your own database.
 
 # Team Members
