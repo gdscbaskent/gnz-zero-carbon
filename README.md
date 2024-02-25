@@ -1,4 +1,6 @@
-# KarbonApp
+# GNZ ZeroCarbon App 
+![video- kapak ](https://github.com/gdscbaskent/gnz-zero-carbon/assets/116390010/4e5e3157-9848-42d3-ab83-34fbd52b16c9)
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.1.2.
 
