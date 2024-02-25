@@ -36,11 +36,13 @@ src -> app -> app.service.ts -> Replace the "10.7.28.212" IP in the sendActivity
 <img width="800" alt="Ekran Resmi 2024-02-25 23 45 26" src="https://github.com/gdscbaskent/gnz-zero-carbon/assets/128600199/6714f4f6-4c04-468e-add0-6d93f8db727e">
 
 # Backend
-Spring boot framework was used.
+Our project utilizes the Spring Boot framework for backend development, providing a robust and efficient foundation for building RESTful APIs and web services. With Spring Boot, we benefit from features like auto-configuration, embedded servers, and dependency management, enabling rapid development and deployment of our backend components.
+   
 Upload the "carbonfootprint/carbonfootprint" file to your Java IDE. Then run the code. 
 
 # Database
-Postgre SQL was used.
+In terms of database management, we employ PostgreSQL and SQL databases to store and manage our application's data. PostgreSQL, a powerful open-source relational database, offers features such as ACID compliance, JSON support, and robust scalability, making it an ideal choice for handling complex data requirements. Additionally, SQL (Structured Query Language) is used to interact with the databases, allowing us to perform various operations such as querying, updating, and managing data efficiently."
+    
 For the database connection, change the username part as your username and password part as your password in the src -> main -> resources -> application.properties file for connecting your own database.
 
 # Team Members
