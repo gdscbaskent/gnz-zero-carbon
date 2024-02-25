@@ -44,6 +44,11 @@ Gökçe Nur Yılmaz - Frontend Developer
 
 https://youtu.be/s0pWy3pbP8I
 
+[](https://youtu.be/s0pWy3pbP8I
+)
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
