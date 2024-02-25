@@ -29,6 +29,8 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
+## IP change
+
 src -> app -> app.service.ts -> Replace the "10.7.28.212" IP in the sendActivity and getCompensations functions with your own IP.
 
 # Backend
