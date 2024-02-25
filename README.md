@@ -48,9 +48,5 @@ Zeynep Nazire Demir - Backend Developer
 Gökçe Nur Yılmaz - Frontend Developer      
 
 # Video Submission
-
-https://youtu.be/s0pWy3pbP8I
-
-[](https://youtu.be/s0pWy3pbP8I
-)      
+For watching our presentation & demo video:     
 [![GNZ ZeroCarbon - GDSC Solution Challenge 2024](https://img.youtube.com/vi/s0pWy3pbP8I/0.jpg)](https://www.youtube.com/watch?v=s0pWy3pbP8I "GNZ ZeroCarbon ")
