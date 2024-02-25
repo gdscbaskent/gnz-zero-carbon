@@ -26,7 +26,21 @@ src -> app -> app.service.ts ->
 
 ## Backend
 
-Upload the "carbonfootprint/carbonfootprint" file to your java ide.Then just run the code. Note: For the database connection, change the username part as your username and password part as your password in the "application.proporties" file for connecting your own database.
+Upload the "carbonfootprint/carbonfootprint" file to your Java IDE. Then just run the code. 
+
+## Database
+
+For the database connection, change the username part as your username and password part as your password in the src -> main -> resources -> application.properties file for connecting your own database.
+
+## Team Members
+
+Zeynep Gamze Topay - Backend Developer
+Zeynep Nazire Demir - Backend Developer
+Gökçe Nur Yılmaz - Frontend Developer
+
+## Video Submission
+
+https://youtu.be/s0pWy3pbP8I
 
 ## Further help
 
