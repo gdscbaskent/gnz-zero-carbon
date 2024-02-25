@@ -18,6 +18,8 @@ Run  `npm start` or `ng serve` for a dev server. Navigate to `http://localhost:4
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
+<br>
+
 ## IP change
 
 src -> app -> app.service.ts -> Replace the "10.7.28.212" IP in the sendActivity and getCompensations functions with your own IP.
