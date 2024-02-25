@@ -7,7 +7,7 @@ The main purpose of this web application is to understand how much carbon dioxid
 <br>
 
 # Frontend
-<img width="150" alt="Ekran Resmi 2024-02-25 23 59 47" src="https://github.com/gdscbaskent/gnz-zero-carbon/assets/128600199/ce180b07-984e-424b-9c9c-94edc5d7a31d">
+## <img width="150" alt="Ekran Resmi 2024-02-25 23 59 47" src="https://github.com/gdscbaskent/gnz-zero-carbon/assets/128600199/ce180b07-984e-424b-9c9c-94edc5d7a31d">
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.1.2.
 
 ### Development server
